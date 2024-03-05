@@ -1,3 +1,14 @@
-.minha-classe-1{color: red;}
-#meu-id-1{color: blue;}
-#meu-id-2{color: green;}
+.background-image{
+    background-image: url("/assets/tiburcio.jpg");
+    width: 600px;
+    height: 600px;
+    color: white;
+    padding: 20px 20px 0px 20px;
+    text-align: justify;
+    font-size: 20px;
+    letter-spacing: 2px;
+    background-position: center;
+    background-size: cover;
+    font-style: italic;
+}
+
